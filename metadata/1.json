@@ -1,0 +1,33 @@
+{
+    "name": "Melbourne Double Storey House",
+    "address": "1214 Jolimont Road, West Melbourne VIC 3002",
+    "description": "This house is a four-bedroom, three-bathroom, private garage and outdoor spaces.",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/1.jpg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.0015
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Landed"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2200
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2016
+        }
+    ]
+}

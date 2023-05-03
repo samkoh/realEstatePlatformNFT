@@ -1,0 +1,33 @@
+{
+    "name": "MLK Heritage House",
+    "address": "NO 132, Jalan Laksamana, MLK 33234, MY",
+    "description": "Malaysia Heritage House",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/6.jpg",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.005
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Landed House"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3600
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1939
+        }
+    ]
+}

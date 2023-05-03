@@ -1,0 +1,33 @@
+{
+    "name": "Unique Apartment",
+    "address": "15712 W 157th St APT 429B, New York, NY 100219",
+    "description": "Unique apartment in the heart of NYC",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/4.jpg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.0010
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Apartment"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2012
+        }
+    ]
+}

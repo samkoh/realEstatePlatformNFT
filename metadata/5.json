@@ -1,0 +1,33 @@
+{
+    "name": "Malay Kampung House",
+    "address": "Lot 10, Jalan Bahulu 2, Pahang 87682, MY",
+    "description": "Malaysia Unique House",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/5.jpg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.0035
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Landed House"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1400
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1959
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "WA Modern Home",
+    "address": "183 Woodland Drive, Chirstmas Island, WA 98282",
+    "description": "Modern home at Chirstmas Island",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/3.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.0040
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2202
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}

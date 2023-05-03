@@ -1,0 +1,33 @@
+{
+    "name": "Mansion Modern Home",
+    "address": "San Diego, CA 92130 | Carmel Valley",
+    "description": "Beautiful mansion home in San Diego",
+    "image": "https://ipfs.io/ipfs/bafybeigohyts4icnetnxq34ltjg6iso7sopllkokpbvni26p2z54cjetde/2.jpg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 0.0035
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Mansion"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 8
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 8
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 8000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}
